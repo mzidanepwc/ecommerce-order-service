@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  fortifyApplicationId: 'APP-178'
+  fortifyApplicationId: 'APP-017'
   fortifyVersion: '1.0'
 
 pool:
