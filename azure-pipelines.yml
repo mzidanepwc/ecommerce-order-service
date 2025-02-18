@@ -1,5 +1,4 @@
-trigger:
-- main
+
 
 variables:
   fortifyApplicationId: 'APP-017'
